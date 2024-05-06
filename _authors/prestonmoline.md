@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/preston.jpg
 name: prestonmoline 
 display_name: Preston Moline
 position: The One
