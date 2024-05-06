@@ -5,6 +5,7 @@ title: Five Nights at Freddy's
 subtitle: Does Five Nights at Freddy’s as good as recent video game adaptations? For the most part, yeah!
 description: Five Nights at Freddy's movie review
 image: /assets/img/uploads/FiveNightsAtFreddys.jpg
+optimized_image: /assets/img/uploads/FiveNightsAtFreddys-Wide.jpeg
 category: life
 tags:
   - life
