@@ -9,7 +9,7 @@ category: life
 tags:
   - life
   - tips
-author: Preston Moline
+author: prestonmoline
 ---
 
 **The Good:**
