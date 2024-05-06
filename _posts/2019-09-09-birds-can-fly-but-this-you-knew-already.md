@@ -4,7 +4,7 @@ layout: post
 title: Five Nights at Freddy's
 subtitle: Does Five Nights at Freddy’s as good as recent video game adaptations? For the most part, yeah!
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
+image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FTrends-International-Nights-Freddys-Movie%2Fdp%2FB0CHSH6TXL&psig=AOvVaw2Aw0gZBaYeJlLTaDbE6vWE&ust=1715029386417000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiJo76094UDFQAAAAAdAAAAABAE
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
 category: life
 tags:
@@ -13,81 +13,33 @@ tags:
 author: PReston Moline
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+The Good:
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+While I haven’t played but 15 minutes of the very first Five Nights at Freddy’s game, I love how they gave the movie an interesting story outside of the pizzeria. Instead of having Freddy Fazbear’s Pizzeria be the main location, it was decided to focus on the life of the security officer guarding the building, Mike. In the story, Josh Hutcherson’s Mike is taking care of his sister, Abby, and he feels this duty/burden to take care and provide for her because of what happened to his brother when he was a kid. While that is probably not straight from the game, I love how it just made the world feel more real and Mike more personable.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+In addition to the story, the performances by the leads were very strong. I really felt that Josh Hutcherson brought real emotions to the story. He did a fantastic job of selling his relationship with Abby, his long-lost brother, and the other characters. Matthew Lillard was also able to embody William Afton so well. He perfectly displayed how demented and disgusting Afton is as a character, it made me want to see even more of him in the film
 
-## Inline HTML elements
+The animatronics were also and incredible achievement. Knowing that they were actually built and functioning helped me understand and feel the urgency of the plot more that I think I would have if they weren’t real. If the puppets were CGI add-ins later, I think me and everyone else in my showing would have been very frustrated with the movie and would have lost the sense of realism the movie (and the game) tried to convey. 
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+What also helped the animatronics feel so real was the sound design and set design of the pizzeria. I can’t applaud the people behind the scenes enough to making sure how good the set looked and how haunting the sounds of the sentient animatronics were. They were both absolutely astonishing.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+The Meh:
 
-Most of these elements are styled by browsers with few modifications on our part.
+Matthew Lillard’s performance was incredible, but I really needed more of his character and the animatronics. The animatronics were extremely well crafted, designed, and executed, but it felt like they were only in the film for 15 minutes. I needed more. Additionally, Matthew Lillard only had like 6-10 minutes of screen time. It really seemed that they dropped the ball having such a great actor playing an iconic villain by having him only be on screen for such little time.
 
-# Heading 1
+While this may be part of the game’s story, I just thought it was a little weird that Abby knew exactly how to communicate with the animatronics from the beginning. To me it would have made more sense if she had the “ah-ha” moment learning that her “friends” were actually embodied by the animatronics, pushing her more and more to go there and be with them. In the actual story it’s just assumed she always had and knew about the connection and that’s why she wanted to be there, especially after her first night in the pizzeria. It just seemed a little too coincidental. 
 
-## Heading 2
+The Bad:
 
-### Heading 3
+One of the key points of the story was Mike trying to figure out who kidnapped his little brother when he was younger. I like the idea that his brother’s kidnapping was actually the man behind the animatronics, but I didn’t like how the reveal was done. Matthew Lillard’s William Afton was just like “I killed your little brother, and I’m going to kill you too.” I think there could have been a better bridge tying Mike to William Afton much earlier and why Afton was doing what he was doing. It seemed like they just pulled the “He did it, and he did it because he’s evil” card.
 
-#### Heading 4
+Overall:
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Despite having no real interest in or experience with the franchise, the movie does a fantastic job of bringing intrigue to the franchise, and the movie didn’t feel like it was forced into existence because of the fandom. While I think there are some plot points that could have been clearer and cleaned up in pre-production, the end product is still very enjoyable, and I’m definitely wanting to come back and watch it again.
 
-## Code
+Rating:
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+4/5 
 
 <table>
   <thead>
