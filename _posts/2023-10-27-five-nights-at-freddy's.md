@@ -4,6 +4,7 @@ layout: post
 title: Five Nights at Freddy's
 subtitle: Does Five Nights at Freddy’s as good as recent video game adaptations? For the most part, yeah!
 description: Five Nights at Freddy's movie review
+<img class="img-rounded" src="/assets/img/uploads/FiveNightsAtFreddys.jpg" alt="Preston Moline" width="400">
 image: /assets/img/uploads/FiveNightsAtFreddys.jpg
 category: life
 tags:
