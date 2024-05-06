@@ -1,15 +1,15 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
+name: prestonmoline 
+display_name: Preston Moline
 position: The One
-bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
+bio: Accountant Movie Reviewer
+github_username: "prestonmoline"
+facebook_username: "preston.moline"
+twitter_username: "MolinePreston"
+instagram_username: "prestonmoline"
+linkedin_username: "preston-moline"
 medium_username: medium_username
 ---
 
