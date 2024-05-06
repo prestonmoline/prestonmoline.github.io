@@ -2,7 +2,7 @@
 date: 2023-10-17 12:00:00
 layout: post
 title: The Killer
-subtitle: Is David Fincher's new thriller thrilling enough to see? It depends
+subtitle: Is David Fincher's new thriller thrilling enough to see?
 description: The Killer Movie Review
 category: blog
 image: /assets/img/uploads/TheKiller.jpg.webp
