@@ -2,7 +2,7 @@
 date: 2023-10-24 12:00:00
 layout: post
 title: Killers of the Flower Moon
-subtitle: Was the highly anticipated historical drama from Martin Scorsese worth the watch? Yes!
+subtitle: Was the highly anticipated historical drama from Martin Scorsese worth the watch?
 description: Killers of the Flower Moon Movie Review
 image: /assets/img/uploads/KillersOfTheFlowerMoon.jpg
 optimized_image: /assets/img/uploads/KillersOfTheFlowerMoon-Wide.jpg
