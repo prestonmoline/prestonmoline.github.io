@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/preston.jpg" alt="Preston Moline" width="600">
+<img class="img-rounded" src="/assets/img/uploads/preston.jpg" alt="Preston Moline" width="400">
 
 # About
 
