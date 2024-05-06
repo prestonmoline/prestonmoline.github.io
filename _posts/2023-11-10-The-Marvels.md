@@ -2,7 +2,7 @@
 date: 2023-11-10 12:00:00
 layout: post
 title: The Marvels
-subtitle: Is this new MCU entry worth the watch? Sure!
+subtitle: Is this new MCU entry worth the watch?
 description: The Marvels Movie Review
 image: /assets/img/uploads/TheMarvels.jpg
 optimized_image: /assets/img/uploads/TheMarvels-Wide.jpg
