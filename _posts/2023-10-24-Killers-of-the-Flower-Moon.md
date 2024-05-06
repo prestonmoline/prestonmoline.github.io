@@ -4,8 +4,8 @@ layout: post
 title: Killers of the Flower Moon
 subtitle: Was the highly anticipated historical drama from Martin Scorsese worth the watch? Yes!
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825288/theme17_nlndhx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg
+image: /assets/img/uploads/KillersOfTheFlowerMoon.jpg
+optimized_image: /assets/img/uploads/KillersOfTheFlowerMoon-Wide.jpg
 category: work
 tags:
   - work
