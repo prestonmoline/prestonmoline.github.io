@@ -1,7 +1,6 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Preston Moline
+title: Preston Moline
+description: My Movie Reviews
 tags:
   - blog
   - template
@@ -16,11 +15,11 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+  #- title: Feed
+   # url: /feed.xml
+email: molinepreston@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: prestonmoline
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: mqkrnjov
