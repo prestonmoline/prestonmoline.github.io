@@ -3,10 +3,10 @@ date: 2023-10-24 12:00:00
 layout: post
 title: Killers of the Flower Moon
 subtitle: Was the highly anticipated historical drama from Martin Scorsese worth the watch? Yes!
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: Killers of the Flower Moon Movie Review
 image: /assets/img/uploads/KillersOfTheFlowerMoon.jpg
 optimized_image: /assets/img/uploads/KillersOfTheFlowerMoon-Wide.jpg
-category: work
+category: blog
 tags:
   - work
   - career
