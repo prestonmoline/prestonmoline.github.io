@@ -2,7 +2,7 @@
 date: October 27, 2023
 layout: post
 title: Five Nights at Freddy's
-subtitle: Does Five Nights at Freddy’s as good as recent video game adaptations? For the most part, yeah!
+subtitle: Does Five Nights at Freddy’s as good as recent video game adaptations?
 description: Five Nights at Freddy's movie review
 image: /assets/img/uploads/FiveNightsAtFreddys.jpg
 optimized_image: /assets/img/uploads/FiveNightsAtFreddys-Wide.jpeg
