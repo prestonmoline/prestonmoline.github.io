@@ -20,15 +20,15 @@ menu:
     url: /feed.xml
 email: molinepreston@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+# disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+# formspree_form_id: formspree_form_id
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: prestonmoline
+github_username: "prestonmoline"
 facebook_username: "preston.moline"
 twitter_username: "MolinePreston"
 instagram_username: "prestonmoline"
