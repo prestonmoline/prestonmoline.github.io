@@ -2,10 +2,10 @@
 date: 2023-11-7 12:00:00
 layout: post
 title: Trolls Band Together
-subtitle: Is this new installation in the Trolls series worth the watch?
 description: Trolls Band Together Movie Review
 image: assets/img/uploads/TrollsBandTogether.jpg
 optimized_image: /assets/img/uploads/Trolls-Wide.jpg
+subtitle: Is this new installation in the Trolls series worth the watch?
 category: blog
 tags:
   - music
