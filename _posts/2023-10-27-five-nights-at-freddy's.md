@@ -6,7 +6,7 @@ subtitle: Does Five Nights at Freddy’s as good as recent video game adaptation
 description: Five Nights at Freddy's movie review
 image: /assets/img/uploads/FiveNightsAtFreddys.jpg
 optimized_image: /assets/img/uploads/FiveNightsAtFreddys-Wide.jpeg
-category: blog
+category: Movie
 author: prestonmoline
 ---
 
