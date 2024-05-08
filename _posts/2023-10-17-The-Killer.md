@@ -4,7 +4,7 @@ layout: post
 title: The Killer
 subtitle: Is David Fincher's new thriller thrilling enough to see?
 description: The Killer Movie Review
-category: blog
+category: Movie
 image: /assets/img/uploads/TheKiller.jpg.webp
 optimized_image: /assets/img/uploads/TheKiller-Wide.jpeg
 author: prestonmoline
