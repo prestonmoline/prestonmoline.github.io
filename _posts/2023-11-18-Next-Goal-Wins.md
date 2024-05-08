@@ -6,7 +6,7 @@ description: Next Goal Wins Movie Review
 image: /assets/img/uploads/NextGoalWins.jpg
 optimized_image: /assets/img/uploads/NextGoalWins-Wide.jpg
 subtitle: Does Taika Waititi's new film score a win?
-category: blog
+category: Movie
 author: prestonmoline
 ---
 
