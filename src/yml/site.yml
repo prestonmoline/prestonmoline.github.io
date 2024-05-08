@@ -15,8 +15,6 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  #- title: Feed
-   # url: /feed.xml
 email: molinepreston@gmail.com
 # See: https://disqus.com/
 disqus_username: prestonmoline
