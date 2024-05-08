@@ -6,7 +6,7 @@ subtitle: Was the highly anticipated historical drama from Martin Scorsese worth
 description: Killers of the Flower Moon Movie Review
 image: /assets/img/uploads/KillersOfTheFlowerMoon.jpg
 optimized_image: /assets/img/uploads/KillersOfTheFlowerMoon-Wide.jpg
-category: blog
+category: Movie
 author: prestonmoline
 ---
 
