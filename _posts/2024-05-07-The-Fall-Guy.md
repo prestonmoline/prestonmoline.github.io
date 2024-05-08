@@ -4,7 +4,7 @@ layout: post
 title: The Fall Guy
 subtitle: Is 'The Fall Guy' the star of the show, or does it fall flat?
 description: The Fall Guy Movie Review
-category: blog
+category: Movie
 image: /assets/img/uploads/TheFallGuy.jpg
 optimized_image: /assets/img/uploads/TheFallGuy-Wide.jpeg
 author: prestonmoline
