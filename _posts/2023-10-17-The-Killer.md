@@ -7,9 +7,6 @@ description: The Killer Movie Review
 category: blog
 image: /assets/img/uploads/TheKiller.jpg.webp
 optimized_image: /assets/img/uploads/TheKiller-Wide.jpeg
-tags:
-  - fate
-  - travel
 author: prestonmoline
 ---
 
