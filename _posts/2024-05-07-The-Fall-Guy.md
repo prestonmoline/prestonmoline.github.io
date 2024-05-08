@@ -7,9 +7,6 @@ description: The Fall Guy Movie Review
 category: blog
 image: /assets/img/uploads/TheFallGuy.jpg
 optimized_image: /assets/img/uploads/TheFallGuy-Wide.jpeg
-tags:
-  - fate
-  - travel
 author: prestonmoline
 ---
 
