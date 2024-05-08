@@ -7,9 +7,6 @@ description: Killers of the Flower Moon Movie Review
 image: /assets/img/uploads/KillersOfTheFlowerMoon.jpg
 optimized_image: /assets/img/uploads/KillersOfTheFlowerMoon-Wide.jpg
 category: blog
-tags:
-  - work
-  - career
 author: prestonmoline
 ---
 
