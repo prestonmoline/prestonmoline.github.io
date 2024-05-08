@@ -1,12 +1,12 @@
 ---
-date: 2023-10-17 12:00:00
+date: 2024-05-07 12:00:00
 layout: post
-title: The Killer
-subtitle: Is David Fincher's new thriller thrilling enough to see?
-description: The Killer Movie Review
+title: The Fall Guy
+subtitle: Is 'The Fall Guy' the star of the show, or does it fall flat?
+description: The Fall Guy Movie Review
 category: blog
-image: /assets/img/uploads/TheKiller.jpg.webp
-optimized_image: /assets/img/uploads/TheKiller-Wide.jpeg
+image: /assets/img/uploads/TheFallGuy.jpg
+optimized_image: /assets/img/uploads/TheFallGuy-Wide.jpeg
 tags:
   - fate
   - travel
@@ -14,26 +14,24 @@ author: prestonmoline
 ---
 
 **The Good:**
-Michael Fassbender is amazing. The way he portrays the killer is wonderful. He is methodical, he is despicable, and he is dedicated. Fassbender makes you feel as if he is a killer, and the way his narration of thoughts takes you through his process really helps you understand who the killer is, despite not even knowing his name.
+"The Fall Guy," directed by David Leitch, is a testament to the filmmaker's sklils, particularly evident in its breathtaking stunts and choreography. From car flips to boat chases, each sequence is executed with style, talent, and charm, showcasing Leitch's strengths. The mesmerizing stunts are not only impressive but also beautifully captured on screen. Long takes enhance the visual spectacle, while vibrant colors and well-designed costumes add to the film's appeal. The action sequence at the club, in particular, stands out for its use of color and choreography, elevating an already great scene to something truly remarkable
 
+Music also plays a significant role, with tracks from artists like Phil Collins and Taylor Swift enhancing the overall experience. Their inclusion adds depth and emotion to key moments, enhancing the film's impact.
+As for the acting, Ryan Gosling and Emily Blunt are awesome. They really capture the “former lovers” trope exceptionally well, and they both bring comedy and realism to their characters, making them extremely relatable. Ryan Gosling also does an amazing job with his stunts. I need him to be in more action movies. And then there's Jason Momoa, whose performance is nothing short of incredible. I can only hope that he'll take on a more prominent role if the movie receives a sequel.
+But what truly sets "The Fall Guy" apart is its homage to the unsung heroes of filmmaking—the men and women behind the scenes. It celebrates their contributions, making the movie a tribute to their hard work and dedication. The credits showcase behind-the-scenes footage, adding character to the movie and paying tribute to the stunt performers. It's a thoughtful touch that adds another layer of appreciation for the movie as a whole.
 
-During one of the scenes in Florida, the killer is trying to take revenge on one of the men who nearly killed is girlfriend. The fight sequence that ensues is raw, brutal, and extremely well designed. The way each character used the various parts of the house to their advantage was fantastic, and this may be one of the best fight sequences I've seen in a movie.
-
-
-The score and sound design was fantastic. While subtle, the ambient sound of the soundtrack really made the film feel distinct and the actions of the killer feel poignant.
 
 
 **The Meh:**
-I know a lot of people enjoy a more slow and methodical story, but I think the opening scene was a little too long. Granted, it did show you the process of everything The Killer went through before doing his work, but I think they never really built up the necessity of him going through all of it. Granted, most of his thoughts are repeated throughout the movie, but I didn't feel like they showed the necessity of him following his regiment. It felt just like dialogue being voiced over that didn't have any response on the actions he actually took.
+What I wish would have been a little better was the love story between Ryan Gosling’s character and Emily Blunt’s character. Throughout the film they are constantly talking about what good items they had together, but it never really shows what the good times are. During the film, most of the dialogue between the characters is about how they regret either doing or not doing something. While some of those scenes are very funny, I wish the script would have taken a little bit of time to get a little serious and help explain how or why everything was so good between the characters. If there could have been a little bit of understanding of what was really 
 
 
 **The Bad:**
-I enjoyed the experience, but I felt like there was no real climax of the movie. The feeling of a climax was the fight scene, but there was another 30+ minutes afterwards. The last discussion with the man who made the hit was like "don't come after me or I will brutally kill you." It wasn't super exciting as a resolution.
-
+Nothing was bad about this movie!
 
 **Overall:**
-I think the killer is a fine enough movie that has incredible acting and action, but on a story level is a little bland. I think there wonderful ideas put throughout the movie, but I think there was no real push or urgency with the plot, having everything seem cool on the outside, but hollow on the inside.
+This is the perfect date night movie filled with action with romance. There is so much to love about the movie, whether it be the action, the characters, or even the actors themselves. Everyone in the movie is on their A-game, and this movie is definitely one of the stars of the year.
 
 
 **Rating:**
-3.5/5
+4.5/5
