@@ -6,7 +6,7 @@ description: Trolls Band Together Movie Review
 image: assets/img/uploads/Trolls.jpg
 optimized_image: /assets/img/uploads/Trolls-Wide.jpg
 subtitle: Is this new installation in the Trolls series worth the watch?
-category: blog
+category: Movie
 author: prestonmoline
 ---
 
