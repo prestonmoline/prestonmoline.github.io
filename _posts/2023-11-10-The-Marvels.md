@@ -7,10 +7,6 @@ description: The Marvels Movie Review
 image: /assets/img/uploads/TheMarvels.jpg
 optimized_image: /assets/img/uploads/TheMarvels-Wide.jpg
 category: blog
-tags:
-  - cook
-  - cucine
-  - story
 author: prestonmoline
 ---
 
