@@ -7,9 +7,6 @@ description: Five Nights at Freddy's movie review
 image: /assets/img/uploads/FiveNightsAtFreddys.jpg
 optimized_image: /assets/img/uploads/FiveNightsAtFreddys-Wide.jpeg
 category: blog
-tags:
-  - life
-  - tips
 author: prestonmoline
 ---
 
