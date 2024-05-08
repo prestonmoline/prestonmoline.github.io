@@ -7,10 +7,6 @@ image: assets/img/uploads/Trolls.jpg
 optimized_image: /assets/img/uploads/Trolls-Wide.jpg
 subtitle: Is this new installation in the Trolls series worth the watch?
 category: blog
-tags:
-  - music
-  - band
-  - family
 author: prestonmoline
 ---
 
