@@ -18,10 +18,19 @@ menu:
     url: /contact
 email: molinepreston@gmail.com
 # See: https://disqus.com/
-# disqus_username: disqus_username
+disqus_username: prestonmoline
 # Contact Form Setting
 # See: https://formspree.io/
 # formspree_form_id: formspree_form_id
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog"
+      comments: true
 
 
 # Social Media Settings
