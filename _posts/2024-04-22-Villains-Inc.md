@@ -3,7 +3,7 @@ date: 2024-04-22 12:00:00
 layout: post
 title: Villains Inc.
 subtitle: How bad is Villains Inc. actully?
-description: The Villains Inc. Movie Review
+description: Villains Inc. Movie Review
 category: Movie
 image: /assets/img/uploads/VillainsInc.jpeg
 optimized_image: /assets/img/uploads/VillainsInc-Wide.jpeg
