@@ -1,9 +1,9 @@
 ---
 date: 2024-03-21 12:00:00
 layout: post
-title: Ghostbusters: Frozen Empire
+title: Ghostbusters Frozen Empire
 subtitle: Does this next entry in the Ghostbusters franchise live up to the prior movies
-description: Ghostbusters: Frozen Empire Movie Review
+description: Ghostbusters Frozen Empire Movie Review
 category: Movie
 image: /assets/img/uploads/FrozenEmpire.jpeg
 optimized_image: /assets/img/uploads/FrozenEmpire-Wide.jpeg
