@@ -1,5 +1,5 @@
 ---
-date: * 12:00:00
+date: 2024-02-22 12:00:00
 layout: post
 title: Bob Marley- One Love
 subtitle: How was the biopic about Bob Marley?
