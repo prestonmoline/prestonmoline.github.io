@@ -16,6 +16,7 @@ Just like most Jason Statham movies, this one is full of fun, colorful, and full
 I also loved Josh Hutherson in this movie. He played such a charismatic and energetic villain. I loved how he was a scammer, making the plot/story a little more modern. I loved how he was able to make the villain stand out as much as the action. Every line delivery of his was just so enjoyable, I wanted to see his character even more on screen. I also need Josh Hutcherson in more movies. He is great.
 
 
+
 **The Meh:**
 While the action was great, the story was just average. While I loved how the propulsion to the story was how a lady got scammed, it was literally just that simple. She was scammed, and then Jason Statham had to get revenge. I don’t think it needed to be any more complex than that, but I’m thinking some people wish there was more to the plot than that. 
 
