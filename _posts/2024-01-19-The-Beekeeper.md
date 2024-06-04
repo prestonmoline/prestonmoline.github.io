@@ -4,7 +4,7 @@ layout: post
 title: The Beekeeper
 subtitle: Should this bee a movie you watch?
 description: The Beekeeper Movie Review
-category: Movie
+category: TV
 image: /assets/img/uploads/Beekeeper.jpg
 optimized_image: /assets/img/uploads/Beekeeper-Wide.jpg
 author: prestonmoline
