@@ -23,7 +23,7 @@ As a final praise, despite how devastating the story is, I loved how they showed
 
 
 **Overall:**
-One of the best movies I’ve ever seen, and I think everyone should watch it, especially if you have siblings. I genuinely cannot think of something bad about the movie either. It is that good.
+One of the best movies I’ve ever seen, and I think everyone should watch it, especially if you have siblings. I genuinely cannot think of anything bad about the movie either. It is that good.
 
 
 **Rating:**
