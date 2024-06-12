@@ -17,14 +17,23 @@ Masters in Accounting. I love movies!
 I tend to enjoy most movies I watch, not because all of them are good or great, but becasue they were entertaining to me. This means I may have a different view on rating movies than most people. Here is how I tend to rate my rate my movies:
 
 5 - Perfect
+
 4.5 - Incredible
+
 4 - Amazing
+
 3.5 - Great
+
 3 - Good
+
 2.5- Okay 
+
 2 - Sub-par
+
 1.5 - Not Good
+
 1 - Bad
+
 .5 - Terrible
 
 I know it's not a perfect rating system, but it works for me. I'm very selective about what gets a 5 and below a 2, so most of my reviews will have a higher-than-average rating compared to others. I can be harsh on some movies critically, but I'd rather enjoy my time watching a movie rather than being hyper critical.
