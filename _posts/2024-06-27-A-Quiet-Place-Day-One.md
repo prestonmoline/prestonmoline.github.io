@@ -6,7 +6,7 @@ subtitle: Is this prequel as good as the movies that came before?
 description: A Quiet Place Day One Movie Review
 category: Movie
 image: /assets/img/uploads/QuietPlace.jpeg
-optimized_image: /assets/img/uploads/QuietPlace-Wide.jpeg
+optimized_image: /assets/img/uploads/QuietPlace.jpg
 author: prestonmoline
 ---
 
