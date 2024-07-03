@@ -14,7 +14,7 @@ permalink: /about/
 Born and raised in Conway, Arkansas. I've been married since August 2023, and I graduated from BYU in April 2024 with my 
 Masters in Accounting. I love movies!
 
-I tend to enjoy most movies I watch, not because all of them are good or great, but becasue they were entertaining to me. This means I may have a different view on rating movies than most people. Here is how I tend to rate my rate my movies:
+I tend to enjoy most movies I watch, not because all of them are good or great, but because they were entertaining to me. This means I may have a different view on rating movies than most people. Here is how I tend to rate my movies:
 
 5 - Perfect
 
