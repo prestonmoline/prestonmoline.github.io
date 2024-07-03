@@ -36,4 +36,4 @@ I tend to enjoy most movies I watch, not because all of them are good or great, 
 
 .5 - Terrible
 
-I know it's not a perfect rating system, but it works for me. I'm very selective about what gets a 5 and below a 2, so most of my reviews will have a higher-than-average rating compared to others. I can be harsh on some movies critically, but I'd rather enjoy my time watching a movie rather than being hyper critical.
+I know it's not a perfect rating system, but it works for me. I'm very selective about what gets a 5 and below a 2, so most of my reviews will have a higher-than-average rating compared to others. I can be harsh on some movies, but I'd rather enjoy my time watching a movie rather than being hyper critical.
