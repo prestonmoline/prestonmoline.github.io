@@ -35,4 +35,4 @@ This is easily the funniest movie of the year. I had a smile on my face the whol
 
 
 **Rating:**
-4.75/5
+4.5/5
