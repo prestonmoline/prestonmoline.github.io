@@ -2,7 +2,7 @@
 date: 2024-07-25 12:00:00
 layout: post
 title: Deadpool and Wolverine
-subtitle: Is David Fincher's new thriller thrilling enough to see?
+subtitle: Can Deadpool really save Marvel?
 description: Deadpool and Wolverine Movie Review
 category: Movie
 image: /assets/img/uploads/Deadpool3.jpeg
