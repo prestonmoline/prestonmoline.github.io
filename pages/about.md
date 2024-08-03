@@ -26,7 +26,7 @@ I tend to enjoy most movies I watch, not because all of them are good or great, 
 
 3 - Good
 
-2.5- Okay 
+2.5- Average
 
 2 - Sub-par
 
