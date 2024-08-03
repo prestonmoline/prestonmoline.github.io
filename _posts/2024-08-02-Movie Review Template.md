@@ -1,0 +1,36 @@
+---
+date: 2024-08-02 12:00:00
+layout: post
+title: Trap
+subtitle: Is the movie as good as the trailers showed it to be?
+description: Trap Movie Review
+category: Movie
+image: /assets/img/uploads/Trap.jpg
+optimized_image: /assets/img/uploads/Trap-Wide.webp
+author: prestonmoline
+---
+
+**The Good:**
+This is one of the most interesting movies I have ever seen. The entire premise of the movie is that a dad takes his daughter to a concert, but it turns out that the concert is set up to catch a serial killer, and the dad is the killer called “The Butcher” (not a spoiler, it's very obvious in the film). Josh Hartnett plays the dad, and he does an amazing job at balancing being the fun, excited dad and the ruthless, apathetic killer that he has been hiding from everyone, especially his family. He does an amazing job trying to be a dad wanting to be there for his daughter and let her have the best day of her life, but on the other side everything is just a front for who he really is and what he really does. 
+
+Because the Butcher is on hyper alert throughout the film trying to scheme a way to escape, various scenarios take place throughout the movie that allow him to gain an edge on the police trying to catch him. I found the ways he was scheming to be very clever. I’ve seen some people online say that they aren’t that realistic, but I think the social engineering used by the Butcher could have easily swayed people today, especially if you know what you are doing.
+
+
+**The Meh:**
+Despite the film’s unique premise, having the main character be a serial killer makes it inherently difficult to root for him. You know he is a terrible person, but you are also extremely engaged to figure out if/how he will escape. The movie does a good job at balancing both sides of the coin, but the fact it has to be juggled makes it difficult to establish a connection with the character(s) in the film
+
+
+**The Bad:**
+The film struggles most with its pacing and ability to keep tension. At the beginning, you are constantly on a rollercoaster of trying to understand and see how he is going to try and get out of the concert without being caught, but this is only half the movie. I feel that the second half of the movie is all over the place regarding pacing and tension. At times you’re on the edge of your seat anxiously waiting to know what is going on, but then at other times it feels like the plot isn’t progressing as it should, killing some of the tension and anxiety that the story brings. If M Night Shyamalan (director and writer) could have found a way to maintain the tension through the second half of the film and escalate it even more, this could have easily been one of the best movies of the year.
+
+
+**Overall:**
+This film was so close to greatness. I love the premise of the movie, Josh Hartnett’s performance was brilliant, but the movie's inability to keep tension throughout (mainly the 2nd half) keeps it from greatness. That being said, If the premise of the film sounds enjoyable and intriguing to you (like it was for me) and you enjoyed the movie trailers, you will have a good time with this movie.
+
+P.S. This also isn't a horror movie. It is an elevated thriller. 
+
+
+**Rating:**
+4/5
+(The movie really is a 3.5/5, but I just love the whole idea of this movie)
+
