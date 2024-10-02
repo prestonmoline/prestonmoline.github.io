@@ -6,7 +6,7 @@ subtitle: How good is Dreamworks' newest movie?
 description: The Wild Robot Movie Review
 category: Movie
 image: /assets/img/uploads/TheWildRobot.jpg
-optimized_image: /assets/img/uploads/TheWildRobot-Wide.jpe
+optimized_image: /assets/img/uploads/TheWildRobot-Wide.jpg
 author: prestonmoline
 ---
 
