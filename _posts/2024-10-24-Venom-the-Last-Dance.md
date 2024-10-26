@@ -1,5 +1,5 @@
 ---
-date: 2024-120-24 12:00:00
+date: 2024-10-24 12:00:00
 layout: post
 title: Venom The Last Dance
 subtitle: How good is the close of this trilogy?
