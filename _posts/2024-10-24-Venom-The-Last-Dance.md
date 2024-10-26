@@ -38,4 +38,4 @@ For a movie set on establishing the creator of the symbiotes (Knull) as a threat
 **Rating:**
 4/5
 
-(It's really close to a 3.5/5)
+It's really close to a 3.5/5
