@@ -5,7 +5,7 @@ title: Gladiator II
 subtitle: How is this compared to the original?
 description: Gladiator II Movie Review
 category: Movie
-image: /assets/img/uploads/Gladiator2.jpeg
+image: /assets/img/uploads/Galdiator2.jpeg
 optimized_image: /assets/img/uploads/Gladiator2-Wide.jpeg
 author: prestonmoline
 ---
