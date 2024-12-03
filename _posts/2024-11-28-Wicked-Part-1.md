@@ -36,3 +36,7 @@ I think there was so much greatness shown in the movie, but there is so much kee
 
 **Rating:**
 3/5
+
+
+**Update:**
+I was able to see some of the movie again (12/2/2024), and while I still stand by initial comments about the color being weird, I think it was an issue at the theater I saw the movie initially in. When we watched it again the colors were much better, but there was definitely a weird haze over everything. I think they tried to use too much direct sunlight while filming, causing not only a haze over the shots but also causing people to have so many shadows over their faces (I didn't notice this the first time). So, while I will admit that I was initially wrong about the colors, I will not concede the fact that the story is still quite boring. 
