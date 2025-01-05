@@ -1,7 +1,7 @@
 ---
 date: 2024-12-21 12:00:00
 layout: post
-title: Mufas The Lion King
+title: Mufasa The Lion King
 subtitle: Short Review
 description: Mufasa The Lion King Movie Review
 category: Movie
