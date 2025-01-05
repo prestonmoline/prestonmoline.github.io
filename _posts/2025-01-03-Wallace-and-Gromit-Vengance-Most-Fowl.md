@@ -11,7 +11,7 @@ author: prestonmoline
 ---
 
 **Short Review:**
-I haven’t seen many of the Wallace and Gromit moves, but this one was a ton of fun. I watched this the day when I was waiting in the airport for 14+ hours, and this was one of the few things that generally got me to smile and laugh. The claymation was very well done, and the story, while simple and silly, was very entertaining. I think anyone who watches this will have a good time with it.
+I haven’t seen many of the Wallace and Gromit movies, but this one was a ton of fun. I watched this the day when I was waiting in the airport for 14+ hours, and this was one of the few things that generally got me to smile and laugh. The claymation was very well done, and the story, while simple and silly, was very entertaining. I think anyone who watches this will have a good time with it.
 
 
 **Rating:**
