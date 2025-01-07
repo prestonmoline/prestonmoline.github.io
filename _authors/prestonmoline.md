@@ -4,7 +4,7 @@ photo: /assets/img/uploads/preston.jpg
 name: prestonmoline 
 display_name: Preston Moline
 position: The One
-bio: Accountant Movie Reviewer
+bio: CPA Movie Reviewer
 github_username: "prestonmoline"
 facebook_username: "preston.moline"
 twitter_username: "MolinePreston"
