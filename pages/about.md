@@ -11,7 +11,7 @@ permalink: /about/
 
 # About
 
-Born and raised in Conway, Arkansas. I've been married since August 2023, and I graduated from BYU in April 2024 with my 
+Born and raised in Conway, Arkansas. I've been married since August 2023, I'm a CPA, and I graduated from BYU in April 2024 with my 
 Masters in Accounting, and I'm currently residing in SLC, UT.
 
 I decided to start this website as a way for me to praise, critique, or discuss ways a movie could have been better. I'm by no means a perfect "critic," but I find it quite therapeutic and cathartic to rationalize and break down what I did and did not enjoy with a movie. I feel like it helps me understand myself even more.
