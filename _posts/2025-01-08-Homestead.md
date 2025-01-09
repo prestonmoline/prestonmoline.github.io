@@ -2,7 +2,7 @@
 date: 2025-01-08 12:00:00
 layout: post
 title: Homestead
-subtitle: How good is the newest Angels Studios movie?
+subtitle: How good is the newest Angels Studios' movie?
 description: Homestead Movie Review
 category: Movie
 image: /assets/img/uploads/Homestead.jpeg
