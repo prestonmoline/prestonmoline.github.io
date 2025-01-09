@@ -6,7 +6,7 @@ subtitle: Is this true story worth the watch?
 description: The Fire Inside Movie Review
 category: Movie
 image: /assets/img/uploads/TheFireInside.jpeg
-optimized_image: /assets/img/uploads/TheFireInside-Wide.jpeg
+optimized_image: /assets/img/uploads/TheFireInside-Wide.jpg
 author: prestonmoline
 ---
 
