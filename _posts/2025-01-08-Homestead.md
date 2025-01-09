@@ -24,7 +24,6 @@ Additionally, the movie had too many subplots, and most of them were just based 
 
 Why did they have laser tag equipment? (You’ll only get this if you watch the movie)
 
-
 **Overall:**
 I really wish this was better than it actually was. The movie is very watchable, but it’s not always enjoyable. I want to support Angel Studios more, but I think they struggle with finding well written scripts for really good movie ideas. There were too many characters, there were very few impactful character moments, there was very little action, and, worst of all, this was just a setup for the TV show (which looks a lot more interesting), and it wasn’t even that great of a setup.
 
