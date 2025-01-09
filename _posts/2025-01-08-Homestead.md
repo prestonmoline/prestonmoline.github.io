@@ -22,7 +22,7 @@ While I love the idea that there is an apocalyptic event that takes place, a wea
 
 Additionally, the movie had too many subplots, and most of them were just based around the characters and their existing relationships. While I appreciate a movie that introduces characters and tries to expound on all of the significant relationships that are impacted by the movie, but the movie did such a poor job at letting you know who the characters actually are, what they care about, and what motivates them. Each character was just dragged from plot point to plot point, so when all of these subplots started to arise, I didn’t care about what was happening in them because I didn’t know or care about the characters, so these moments felt like they were detracting from and distracting to the story trying to be told. On top of this, the characters also had extremely little character development, so any decision by each character never really felt earned or that it had any real impact.
 
-Also, why did they have laser tag equipment? (You’ll only get this if you watch the movie)
+Why did they have laser tag equipment? (You’ll only get this if you watch the movie)
 
 
 **Overall:**
