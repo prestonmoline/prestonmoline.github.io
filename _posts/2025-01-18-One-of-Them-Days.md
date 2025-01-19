@@ -5,8 +5,8 @@ title: One of Them Days
 subtitle: Short Review
 description: One of them Days Movie Review
 category: Movie
-image: /assets/img/uploads/OneofThemDays.jpg
-optimized_image: /assets/img/uploads/OneofThemDays-Wide.jpg
+image: /assets/img/uploads/OneOfThemDays.jpg
+optimized_image: /assets/img/uploads/OneOfThemDays-Wide.jpg
 author: prestonmoline
 ---
 
