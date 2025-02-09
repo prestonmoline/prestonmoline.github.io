@@ -11,7 +11,7 @@ author: prestonmoline
 ---
 
 **The Good:**
-As expected the main highlight of this movie is the action. The choreography was spectacular, and I loved how they were able to allow the action sequences to use the set pieces around them - especially in the house. The sequences in the house (mainly the kitchen) were so unique, and the way they were able to not only do the action but shoot it was awesome. 
+As expected the main highlight of this movie is the action. The choreography was spectacular, and I loved how they were able to allow the action sequences to use the set pieces around them - especially in the house. The sequences in the house (mainly the kitchen) were so unique, and the way they were shoot the action was incredible. 
 
 The standouts of the movie are Ke Huy Quan and Marshawn Lynch. Ke effortlessly plays an action star and the movie would not be any good without his charisma and his acting capabilities, especially with the lackluster story. Additionally, Marshawn Lynch is just hilarious. He plays such a fun and eccentric villain, and his random comments are just hilarious. 
 
