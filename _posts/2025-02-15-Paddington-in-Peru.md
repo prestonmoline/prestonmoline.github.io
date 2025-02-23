@@ -6,7 +6,7 @@ subtitle: Short Review
 description: Paddington in Peru Movie Review
 category: Movie
 image: /assets/img/uploads/Paddington3.jpg
-optimized_image: /assets/img/uploads/Paddington-Wide.jpg
+optimized_image: /assets/img/uploads/Paddington3-Wide.jpg
 author: prestonmoline
 ---
 
