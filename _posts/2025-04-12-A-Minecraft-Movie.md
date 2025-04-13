@@ -17,4 +17,4 @@ Overall, parents will think the movie is a little too dumb, but kids will have a
 
 
 **Rating:**
-3.5/5 (very close to a 3/5)
+3/5
