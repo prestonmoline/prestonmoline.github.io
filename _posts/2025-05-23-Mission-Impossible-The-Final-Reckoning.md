@@ -1,5 +1,5 @@
 ---
-date: 2025-05-24 12:00:00
+date: 2025-05-23 12:00:00
 layout: post
 title: Mission Impossible The Final Reckoning
 subtitle: How good is the finale of the Mission Impossible franchise?
