@@ -15,4 +15,4 @@ I still don’t know why they decided to remake this. The original movie did com
 
 
 **Rating:**
-2.5/5
+2/5
