@@ -15,4 +15,4 @@ I’m struggling for words about the movie. It wasn’t bad, but nothing stood o
 
 
 **Rating:**
-3/5
+2.5/5
