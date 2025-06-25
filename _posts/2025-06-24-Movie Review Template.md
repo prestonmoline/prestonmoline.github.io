@@ -1,29 +1,17 @@
 ---
-date: * 12:00:00
+date: 2025-06-24 12:00:00
 layout: post
-title: *
-subtitle: *
-description: * Movie Review
+title: F1 The Movie
+subtitle: Review
+description: F1 The Movie Review
 category: Movie
-image: /assets/img/uploads/*.jpg
-optimized_image: /assets/img/uploads/*-Wide.jpeg
+image: /assets/img/uploads/F1.jpg
+optimized_image: /assets/img/uploads/F1-Wide.jpeg
 author: prestonmoline
 ---
 
-**The Good:**
-
-
-**The Meh:**
-
-
-
-**The Bad:**
-
-
-
-**Overall:**
-
-
+**Review:**
+This is the Top Gun Maverick of racing movies. It is full of fun, breathtaking racing, and it is just a delight to watch. Just go see it.
 
 **Rating:**
-*/5
+4.5/5
