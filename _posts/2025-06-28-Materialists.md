@@ -20,7 +20,7 @@ What I really loved about the movie is how it is able to discuss the ideas of fi
 
 One of the only downsides of this movie is that I think it was let down by Dakota Johnson. I’ve never been a fan of her acting, and while she can get emotional and cry when needed, she’s a little too monotone and her acting is boring. I think if she could have stepped up her game or if they would have found someone slightly more engaging to play Lucy I think this movie could have just been even better.
 
-Overall, this is a very unique and enjoyable rom-com. I’m not a huge fan of the genre, but I really enjoyed how they were able to find a unique and modern love story. I’d highly recommend this for any rom-com fan as I know you’d really enjoy it as me, my wife, and my sisters all did.
+Overall, this is a very unique and enjoyable rom-com. I’m not a huge fan of the genre, but I really enjoyed how they were able to find a unique and modern love story. I’d highly recommend this for any rom-com fan as I know you’d really enjoy it as much as my wife, my sisters, and I did.
 
 
 **Rating:**
