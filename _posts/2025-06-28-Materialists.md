@@ -17,7 +17,6 @@ The movie starts picking up when you meet Pedro Pascal’s character Harry. He h
 
 What I really loved about the movie is how it is able to discuss the ideas of finding the “perfect spouse” and “finding true love” in a way that was realistic and honest. Harry is the kind of guy that she’s always dreamed of having (wealth, fancy dinners, etc.), but does she really feel love for that? John is the kind of guy who is broke as can be, but he was the ex after 5 years of dating, and he really truly has Lucy feel love. Do you go with what you’ve always dreamed, or do you go with your heart against everything else? It’s this inner battle that you see and feel throughout the movie that is the heart and soul of the movie. It’s not about randomly finding your soulmate, rather it’s the rational versus the irrational, and which one do you choose?
 
-
 One of the only downsides of this movie is that I think it was let down by Dakota Johnson. I’ve never been a fan of her acting, and while she can get emotional and cry when needed, she’s a little too monotone and her acting is boring. I think if she could have stepped up her game or if they would have found someone slightly more engaging to play Lucy I think this movie could have just been even better.
 
 Overall, this is a very unique and enjoyable rom-com. I’m not a huge fan of the genre, but I really enjoyed how they were able to find a unique and modern love story. I’d highly recommend this for any rom-com fan as I know you’d really enjoy it as much as my wife, my sisters, and I did.
