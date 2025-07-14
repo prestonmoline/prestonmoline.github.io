@@ -20,13 +20,13 @@ Despite critiquing most movies, I tend to enjoy most movies I watch (despite my 
 
 5 - Perfect
 
-4.5 - Incredible
+4.5 - Amazing
 
-4 - Amazing
+4 - Great
 
-3.5 - Great
+3.5 - Good
 
-3 - Good
+3 - Okay
 
 2.5- Average
 
