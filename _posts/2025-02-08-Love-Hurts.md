@@ -19,7 +19,8 @@ The standouts of the movie are Ke Huy Quan and Marshawn Lynch. Ke effortlessly p
 There are two major issues with the movie, and they both were issues in tandem. While the movie shined with its action and the creative ways the movie was shot, there was no focus with the story or the pacing of the movie. While the premise is simple, the story is only explained in the middle of the movie, and it absolutely ruins the pacing of the movie. The movie starts off so strong just setting up a simple movie that doesn’t need much more development, but they decided to try to make a much more in depth story, but it ended up being uninteresting and it completely screwed up the pacing of the movie. The beginning was so much fun, but the middle was such a slog. The end almost reached the heights of the beginning, but it could never come back.
 
 **Overall:**
-Despite the story and pacing issues, I had a lot of fun with this movie. This movie was just supposed to be made to be a fun action movie, and I was blown away by the action they showed and pleasantly surprised by how creative the choreography and the cinematography. If you enjoyed the trailers for the movie, you’ll definitely get a kick out of it, despite its flaws.
+Despite the story and pacing issues, I had fun with this movie. This movie was just supposed to be made to be a fun action movie, and I enjoyed the action they showed and pleasantly surprised by how creative the choreography and the cinematography. If you enjoyed the trailers for the movie, you’ll definitely get a kick out of it, despite its flaws.
 
 **Rating:**
-3.5/5
+3/5
+
