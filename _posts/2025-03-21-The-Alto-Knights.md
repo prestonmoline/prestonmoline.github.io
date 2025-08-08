@@ -17,4 +17,5 @@ I went into the movie knowing I wasn’t going to see the most entertaining movi
 
 
 **Rating:**
-3.5/5
+3/5
+
