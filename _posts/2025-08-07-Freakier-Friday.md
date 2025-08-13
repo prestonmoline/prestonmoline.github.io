@@ -21,10 +21,11 @@ Despite the disappointing and underwhelming plot, I was surprised by how much fu
 
 After seeing the original a week ago I was a little disappointed that it wasn’t as funny as I had expected since most of the humor was 20+ years old. Since this movie is new and “modern,” the humor actually worked for me and was more naturally funny. I felt I was laughing more at one-liners too, which is a shout out to the improv of the actors or the clever writing. Also being fun, there are some story elements that are cheesy, but since I saw this movie with my brother, we were cracking throughout the movie (especially near the end), and this just made the movie even funnier and even more worth-while to watch.
 
-Even though this movie is not my type of movie at all, I was pleasantly surprised by it, and if you are a fan of the original, you’ll absolutely adore this movie. It’s good, family fun. It is also one of my wife’s favorite movies she’s seen this year (and probably one of her favorites from the last few years).
+Even though this movie is not my type of movie at all, I was pleasantly surprised by it, and if you are a fan of the original, you’ll absolutely adore this movie. It’s good, family fun. It is also one of my wife’s favorite movies she’s seen this year (and probably one of her favorites from the last few years), which is honestly way more important than what I thought of the movie.
 
 
 
 **Rating:**
 3.5/5
+
 
