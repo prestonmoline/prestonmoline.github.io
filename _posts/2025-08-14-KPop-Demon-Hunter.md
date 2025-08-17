@@ -17,5 +17,6 @@ Overall, I didn’t care for the movie, but I know everyone else loves it. Even 
 
 
 **Rating:**
-*/5
+2.5/5
+
 
