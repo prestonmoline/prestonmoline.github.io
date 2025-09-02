@@ -6,7 +6,7 @@ subtitle: Short Review
 description: Americana Movie Review
 category: Movie
 image: /assets/img/uploads/Americana.jpg
-optimized_image: /assets/img/uploads/Americna-Wide.jpeg
+optimized_image: /assets/img/uploads/Americana-Wide.jpeg
 author: prestonmoline
 ---
 
@@ -16,4 +16,5 @@ I don’t care for this movie enough to write a full review about it. The traile
 
 **Rating:**
 1.5/5
+
 
