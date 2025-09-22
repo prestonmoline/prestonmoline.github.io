@@ -17,4 +17,5 @@ Overall, I wish it could have been just a little bit better, especially the char
 
 
 **Rating:**
-3.5/5
+3/5
+
