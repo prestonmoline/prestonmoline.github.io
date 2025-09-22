@@ -15,5 +15,6 @@ This is a simple and good enough murder mystery movie. The story is nothing real
 
 
 **Rating:**
-3/5
+2.5/5
+
 
