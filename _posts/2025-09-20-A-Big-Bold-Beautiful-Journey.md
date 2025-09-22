@@ -25,5 +25,6 @@ Overall, I was pretty disappointed at the final product, but I still have a lot 
 
 
 **Rating:**
-3/5
+3/5 (the final product is more of a 2.5/5, but my bias on enjoying the pre-screener is definitely coming through)
+
 
