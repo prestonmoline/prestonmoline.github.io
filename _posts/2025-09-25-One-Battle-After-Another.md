@@ -1,0 +1,33 @@
+---
+date: 2025-09-25 12:00:00
+layout: post
+title: One Battle After Another
+subtitle: How is Leonardo DiCaprio's newest film?
+description: One Battle After Another Movie Review
+category: Movie
+image: /assets/img/uploads/OneBattle.jpg
+optimized_image: /assets/img/uploads/OneBattle-Wide.jpeg
+author: prestonmoline
+---
+
+**Review:**
+This has to be one of the most disappointing movies I’ve watched all year. Yes, I’ve seen some pretty bad movies, but I wasn’t expecting a movie that I was actually looking forward to watching to be as disappointing as this one was.
+
+To preface my review, this is a political movie. After watching the movie’s trailer in the theater for months I expected the movie to have political undertones, having certain topics stand out across the movie at certain points, but that is not the case. This movie takes a very hard stance on certain political topics. I don’t care if politics are brought up in movies, as politics are extremely prevalent in our lives, but I don’t like my movie completely shaped and driven by the politics of the movie, especially when the politics of the movie are based on the current political environment. Whether or not I agree or disagree with topics being discussed, I find extreme/excessive uses of politics as unnecessary and irritating. I strongly believe movies are supposed to be a point of escapism, allowing us to leave the worries of the world behind and allowing us to be transported into a different world, a different country, a different time, or across the galaxy. I don’t like being reminded of current political issues going on while I’m watching a movie. As this movie is littered with politics throughout, I thought it best to air this grievance before the rest of my review instead of consistently discussing it below.
+
+To start the review, what really doesn’t help the enjoyability of the film is how it is structured and paced. The movie is made up of 3 distinct acts, the first of which is the first 40-45 minutes of the movie (the first act) which is slow, full of politics, and is centered around Teyana Taylor’s character Perfidia Beverly Hills, and Bob Ferguson, played by Leo DiCaprio. This act of the movie is where you see Perfidia and Bob, both of whom were revolutionaries, falling in love, eventually having a kid together. It serves mainly as a story of Perfidia, her desires, what she wants out of life, and what she is trying to do within the revolution. This is where we are also introduced to Colonel Steven Lockjaw, played by Sean Penn, and his “unique” relationship with Perfidia, trying to stop her and her fellow revolutionaries. Besides the highly political aspects of this third of the movie, it really soured me on Perfidia’s character and this act as a whole. Right after she has the kid she basically decides she is going to walk out on the family, just to get caught by the police soon after (this is not a spoiler, the trailers mention this). Her motivations to leave her family did not feel inspired, making me not enjoy her character whatsoever. What makes it worse is that once she is caught by the police she is effectively removed from the movie and gets no more screen time. This wouldn’t have been an issue at all if they could have redeemed Perfidia’s actions at the end of the film, but no such resolution takes place, making the decisions made in this act seem unintelligent and pointless. 
+
+The 2nd act is the most interesting part of the movie. It is a game of cat and mouse between Sean Penn’s Colonel Lockjaw and Bob (DiCaprio). DiCaprio is living in a small town with his daughter and gets help from the local Sensei (Benicio del Toro) to try and get away from Lockjaw. What makes this part of the movie so fun is that Bob and Sensei are constantly moving around, going from point A, to B, to C, eventually arriving at Z. Throughout all of this, you are getting small glimpses as to what Lockjaw and his team are doing, really adding to the intensity and anxiety of what is taking place. It is fun, fast, clever, and hectic, and this is what I thought the movie was all going to be about while watching the trailers. You have a colonel who has a vendetta against a group of revolutionaries, willing to do anything to catch his prey, and you have the former revolutionary running for his life, trying his best not to get caught.
+
+Despite this act being the best in the movie, it is also the act where they ruined Lockjaw’s character in this act. While you think his motivation of catching Bob and his daughter is one thing, they change it to be something absolutely stupid, and it’s this change that really makes me hate the way his motivations were changed and how the character was written. The changing of his motivations was also quite political, and it is just another reason why this movie was more frustrating than fun.
+
+The final act of the movie is the culmination of what has taken place throughout the course of the film. It is Bob trying to track down his daughter and stop Lockjaw once and for all. While there are great sequences throughout this act, it is at least 30 minutes too long. Scenes were drawn out too long, and there were continuations of storylines that didn’t need to happen. By the end I was getting annoyed by how the ending wouldn’t actually end.
+
+Overall, no matter how well made this movie was technically (which it really was), I struggled to find a lot of satisfaction in watching the movie. Leonardo DiCaprio and Benicio DelToro are absolutely wonderful in this movie. They bring so much fun to the roles they are playing, especially in the 2nd act, and it makes each of the scenes they are in so much more enjoyable. Sean Penn also just plays this truly terrible person perfectly, making me wish the script didn’t ruin what could have been a significantly more interesting villain. In addition to this, the cinematography and visuals of the movie are fantastic. There are so many up close shots that make each character feel like they are right in front of you, there are shots that take place at night that feel like you are actually outside with them, and there are car sequences where you feel like you are literally in the car with them (you may get car sick).I also understand so many people will love the modern dialogue and depictions of certain topics, loved how the movie was shot, acted, and directed, but my experience was mostly one of disappointment and frustration. I could have found much more enjoyment in the film if the 1st third and the final third of the movie were better, and I never felt like the movie ever justified its overtly political nature.
+
+
+**Rating:**
+2.5/5 
+
+
+
