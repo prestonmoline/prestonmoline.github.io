@@ -1,12 +1,12 @@
 ---
 date: 2025-09-29 12:00:00
 layout: post
-title: Nurenberg
-subtitle: How good is the newest WWII movie?
+title: Nuremberg
+subtitle: How good is the newest movie about WWII?
 description: Nurenberg Movie Review
 category: Movie
-image: /assets/img/uploads/Nurenberg.jpg
-optimized_image: /assets/img/uploads/Nurenberg-Wide.jpeg
+image: /assets/img/uploads/Nuremberg.jpg
+optimized_image: /assets/img/uploads/Nuremberg-Wide.jpeg
 author: prestonmoline
 ---
 
@@ -28,6 +28,7 @@ Overall, I found this to be an absolutely wonderful, insightful, and unique movi
 
 **Rating:**
 4/5 
+
 
 
 
