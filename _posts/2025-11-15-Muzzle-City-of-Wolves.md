@@ -17,7 +17,8 @@ Despite my issues with it, I had an enjoyable enough time with it. The action wa
 
 
 **Rating:**
-2.5/5 
+2/5 
+
 
 
 
