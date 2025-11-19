@@ -15,9 +15,11 @@ This is a pretty standard B-tier Aaron Eckhart action movie. The action is a lot
 
 Despite my issues with it, I had an enjoyable enough time with it. The action was good enough to keep my attention, and since it’s only an hour and a half long, I felt like it was worth giving it a shot. Plus it’s always fun watching Aaron Eckhart.
 
+UPDATE 11/18/2025 - I didn't realize this was a sequel to a movie called "Muzzle." Some of the flashbacks could be to the first movie and some other plot-related items I thought were missing could have been in the 1st movie. I'll have to give the original a watch soon to see if it makes me like this one more or if I agree with my initial review.
 
 **Rating:**
 2/5 
+
 
 
 
