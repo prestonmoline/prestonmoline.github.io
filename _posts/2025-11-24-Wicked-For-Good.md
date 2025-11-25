@@ -2,7 +2,7 @@
 date: 2025-11-24 12:00:00
 layout: post
 title: Wicked - For Good
-subtitle: *******
+subtitle: Was Wicked Part 2 for good or for worse?
 description: Wicked - For Good Movie Review
 category: Movie
 image: /assets/img/uploads/WickedForGood.jpg
@@ -24,6 +24,7 @@ Overall, I really do see why people love and revere the Wicked musical, but afte
 
 **Rating:**
 3/5 
+
 
 
 
