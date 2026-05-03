@@ -6,7 +6,7 @@ subtitle: Short Review
 description: Is This Thing On? Movie Review
 category: Movie
 image: /assets/img/uploads/IsThisThingOn.jpg
-optimized_image: /assets/img/uploads/IsThsThingOn_Wide.jpeg
+optimized_image: /assets/img/uploads/IsThisThingOn_Wide.jpeg
 author: prestonmoline
 ---
 
