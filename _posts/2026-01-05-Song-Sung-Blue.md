@@ -17,7 +17,7 @@ The movie is tricky to review because the couple’s story has so many crazy eve
 
 
 **Rating:**
-4.5/5 
+4/5 
 
 
 
