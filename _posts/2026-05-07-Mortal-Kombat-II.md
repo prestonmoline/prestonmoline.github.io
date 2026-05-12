@@ -2,7 +2,7 @@
 date: 2026-05-07 12:00:00
 layout: post
 title: Mortal Kombat II
-subtitle: *******
+subtitle: How is good is the sequel to Mortal Kombat?
 description: Mortal Kombat II Movie Review
 category: Movie
 image: /assets/img/uploads/MoralKombatII.jpg
