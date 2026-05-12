@@ -5,7 +5,7 @@ title: Mortal Kombat II
 subtitle: How is good is the sequel to Mortal Kombat?
 description: Mortal Kombat II Movie Review
 category: Movie
-image: /assets/img/uploads/MoralKombatII.jpg
+image: /assets/img/uploads/MortalKombatII.jpg
 optimized_image: /assets/img/uploads/MortalKombatII-Wide.jpeg
 author: prestonmoline
 ---
