@@ -5,7 +5,7 @@ title: The Punisher One Last Kill
 subtitle: Short Review
 description: The Punisher One Last Kill Marvel Special Presentation Review
 category: Movie
-image: /assets/img/uploads/OneLastKill.jpg
+image: /assets/img/uploads/OneLastKill.jpeg
 optimized_image: /assets/img/uploads/OneLastKill-Wide.jpeg
 author: prestonmoline
 ---
