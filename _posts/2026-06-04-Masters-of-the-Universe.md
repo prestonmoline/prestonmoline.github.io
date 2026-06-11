@@ -11,7 +11,7 @@ author: prestonmoline
 ---
 
 **Review:**
-Adam, Prince of Eterina, the He-Man, and defender of Castle Greyskull. Director Steven Knight was able to bring He-Man, Eterina, and all of the characters from the old He-Man cartoons to life in a vibrant, exciting, and extremely fun rendition of the He-Man story.
+Adam, Prince of Eterina, the He-Man, and defender of Castle Greyskull. Director Travis Knight was able to bring He-Man, Eterina, and all of the characters from the old He-Man cartoons to life in a vibrant, exciting, and extremely fun rendition of the He-Man story.
 
 The movie is an origin story for Adam and how he becomes He-Man. He is raised for the first 10 years of his life on Eternia, and due to Skeletor attacking his home, he was forced to go to Earth to hide until he was worthy to wield the sword (once he could find it again). Once he finds the sword he is able to go back home to redeem Eternia and take down Skeletor and his minions.
 
