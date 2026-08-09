@@ -34,8 +34,7 @@ Other Notes:
 Overall, this is a fantastic Spider-Man movie, and it made me love spider man even more, which is a testament to how good the movie is and how good Tom Holland is as the character. I’m really hoping they can keep Destin Daniel Cretton as the director of the next movie as well, as it was just a beautiful looking super hero movie. As a super nerd, this movie also gave me a lot to chew on, as not only did they make a really good movie I can enjoy right now, but I also saw them setting up so many interesting ideas that I really hope they fulfill in the coming years. I highly recommend everyone seeing this, as it is one of the best Spider-Man movies (maybe the best?) we have ever gotten.
 
 
-
 **Rating:**
-/5 
+4.5/5 
 
 
